@@ -1,5 +1,4 @@
-# Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Blockchain Security
+# Code for 
+## Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security
 
-**Note:** **This Colab is supplementary material for the paper by the following authors (names by alphabetic order)**
-
-Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang, Luyao Zhang, and Yinhong Zhao
+**Available** at [arxiv](https://arxiv.org/abs/2201.05574)
