@@ -5,6 +5,8 @@
 
 ### Author List: 
 
-Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao (names by alphabetic order, \* corresponding authors)
+Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao 
+
+(*names by alphabetic order, \* corresponding authors*)
 
 
