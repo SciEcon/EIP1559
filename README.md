@@ -1,5 +1,6 @@
-**Supplementary material for the paper entitled ["Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Blockchain Security"](https://arxiv.org/abs/2201.05574) by the following authors (names by alphabetic order)**
+# Supplementary material
+### Paper Title: ["Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Blockchain Security"](https://arxiv.org/abs/2201.05574)
 
-Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao
+### Author List: Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao (names by alphabetic order, \* corresponding authors)
 
-**Available** at [arxiv](https://arxiv.org/abs/2201.05574)
+### **Available** at [arxiv](https://arxiv.org/abs/2201.05574)
