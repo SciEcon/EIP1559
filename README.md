@@ -1,7 +1,7 @@
 # Supplementary material
 ### Paper Title: 
 
-["Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Blockchain Security"](https://arxiv.org/abs/2201.05574)
+["Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Blockchain Security"](https://arxiv.org/abs/2201.05574), Accepted at [ACM CCS'22](https://www.sigsac.org/ccs/CCS2022/call-for-papers.html)
 
 ### Author List: 
 
