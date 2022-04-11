@@ -1,5 +1,5 @@
 # Supplementary materials
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6443223.svg)](https://doi.org/10.5281/zenodo.6443223)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6443223.svg)](https://doi.org/10.5281/zenodo.6443223)
 ### Paper Title: 
 
 ["Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security"](https://arxiv.org/abs/2201.05574), Accepted at [ACM CCS'22](https://www.sigsac.org/ccs/CCS2022/call-for-papers.html)
