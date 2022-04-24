@@ -11,8 +11,10 @@ Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao
 (*names by alphabetic order, \* corresponding authors*)
 
 ### Colab Notebook
+#### Code for generating the main results: starting from importing the data published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI)
 > [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security (main: dark mode).ipynb](https://colab.research.google.com/drive/1ZCklHeCyWwR07F9arfrLvboNDCDhbzm3?usp=sharing)
-
+> 
+#### Code for generating the additional results considering extra blocks in the afterwards
 > [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security (afterwords: dark mode).ipynb](https://colab.research.google.com/drive/13Z_epFrZJHtQjXb24Y4JuYDnw8YUPw3l?usp=sharing)
 
 ### Cite Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI) (BibTex):
