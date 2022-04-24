@@ -15,7 +15,7 @@ Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao
 
 > [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security (afterwords: dark mode).ipynb](https://colab.research.google.com/drive/13Z_epFrZJHtQjXb24Y4JuYDnw8YUPw3l?usp=sharing)
 
-### Cite Dataset (BibTex):
+### Cite Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI) (BibTex):
 #### Style in @misc
 
 ```
