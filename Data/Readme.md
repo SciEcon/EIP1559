@@ -29,7 +29,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 }
 ```
 
-### Check out Data Dictionary in Table 5 of [the Paper]()
+### Check out Data Dictionary in Table 5 of [the Paper](https://arxiv.org/abs/2201.05574)
 
 
 
