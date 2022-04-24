@@ -29,8 +29,10 @@ version = {V1},
 doi = {10.7910/DVN/K7UYPI},
 url = {https://doi.org/10.7910/DVN/K7UYPI}
 }
+```
 
 ## Style in @data
+
 ```
 @data{DVN/K7UYPI_2022,
 author = {Liu, Yulin and Lu,Yuxuan and Nayak, Kartik and Zhang,Fan and Zhang, Luyao and Zhao,Yinhong},
