@@ -1,7 +1,21 @@
-# Download the replication data on Harvard Dataverse
-[Replication Data for: "Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security"](https://doi.org/10.7910/DVN/K7UYPI)
+# Cite Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI) (BibTex):
+### Style in @misc
 
-**Cite Dataset (BibTex)**:
+```
+@misc{DVN/K7UYPI_2022,
+author = {Liu, Yulin and Lu,Yuxuan and Nayak, Kartik and Zhang,Fan and Zhang, Luyao and Zhao,Yinhong},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: ``Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security''}},
+UNF = {UNF:6:NU1/xlGhrKx4HWWJwZbxQA==},
+year = {2022},
+version = {V1},
+doi = {10.7910/DVN/K7UYPI},
+url = {https://doi.org/10.7910/DVN/K7UYPI}
+}
+```
+
+### Style in @data
+
 ```
 @data{DVN/K7UYPI_2022,
 author = {Liu, Yulin and Lu,Yuxuan and Nayak, Kartik and Zhang,Fan and Zhang, Luyao and Zhao,Yinhong},
@@ -20,7 +34,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 
 # Raw data & code
 
-This repository holds the raw data and the scripts for data processing.
+This folder holds the raw data and the scripts for data processing.
 
 ## Summary
 
