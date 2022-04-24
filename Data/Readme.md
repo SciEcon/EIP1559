@@ -1,4 +1,4 @@
-# Cite Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI) (BibTex):
+# Cite Final Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI) (BibTex):
 ### Style in @misc
 
 ```
@@ -28,6 +28,8 @@ doi = {10.7910/DVN/K7UYPI},
 url = {https://doi.org/10.7910/DVN/K7UYPI}
 }
 ```
+
+### Check out Data Dictionary in Table 5 of [the Paper]()
 
 
 
