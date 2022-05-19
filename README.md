@@ -1,4 +1,5 @@
-# Supplementary materials
+# EIP1559
+## Supplementary Materials: Code, Data, Digital Assets
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6478038.svg)](https://doi.org/10.5281/zenodo.6478038)
 ### Paper Title:
 
@@ -50,6 +51,8 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 ### The Presentation
 > Presented (online) jointly by Fan Zhang and Luyao Zhang at the invited Feature Talk, [ETHconomics @ Devconnect](https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90), Ethereum Foundation, Amsterdam, Netherland, Apr. 21, 2022
 - **Documentary on ETHconomics Devconnect YouTube Channel**:
-[![Supplementary materials](https://img.youtube.com/vi/QetFrMDBFWY)](https://www.youtube.com/watch?v=QetFrMDBFWY)
+
+[![EIP1559](https://img.youtube.com/vi/QetFrMDBFWY/0.jpg)](https://www.youtube.com/watch?v=QetFrMDBFWY)
+
 - **Slides in PDF**: https://docsend.com/view/s8798vk8w3cdmjqz
 - **Slides in Flipbook**: https://heyzine.com/flip-book/6d0ae9deab.html
