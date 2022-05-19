@@ -62,7 +62,9 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 ## **Prof. Tim Roughgarden's  Keynote talk in the same session followed by ours**
 > Prof. Tim Roughgarden's research is one of our major inspirations
 
+
 - **Documentary on ETHconomics Devconnect [YouTube Channel](https://www.youtube.com/watch?v=a9SB3uXR1qw)**:
+
 [![EIP1559](https://img.youtube.com/vi/a9SB3uXR1qw/0.jpg)](https://www.youtube.com/watch?v=a9SB3uXR1qw)
 
 ### Table of Contents
