@@ -49,7 +49,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 }
 ```
 ### The Presentation
-## Part of the Rsearch Agenda: Computer Science Meets Economics on Blockchain
+#### Part of the Rsearch Agenda: Computer Science Meets Economics on Blockchain
 > Presented (online) jointly by Fan Zhang and Luyao Zhang at the invited Feature Talk, [ETHconomics @ Devconnect](https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90), Ethereum Foundation, Amsterdam, Netherland, Apr. 21, 2022
 
 - **Documentary on ETHconomics Devconnect [YouTube Channel](https://youtu.be/QetFrMDBFWY)**:
@@ -59,7 +59,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 - **Slides in PDF**: https://docsend.com/view/s8798vk8w3cdmjqz
 - **Slides in Flipbook**: https://heyzine.com/flip-book/6d0ae9deab.html
 - **YouTube Documentary**: https://youtu.be/QetFrMDBFWY
-## **Prof. Tim Roughgarden's  Keynote talk in the same session followed by ours**
+#### **Prof. Tim Roughgarden's  Keynote talk in the same session followed by ours**
 > Prof. Tim Roughgarden's research is one of our major inspirations
 
 
@@ -67,10 +67,10 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 
 [![EIP1559](https://img.youtube.com/vi/a9SB3uXR1qw/0.jpg)](https://www.youtube.com/watch?v=a9SB3uXR1qw)
 
-## Follow other Presentations at ETHconomics @ Devconnect
-### [ETHconomics @ Devconnect Twitter](https://twitter.com/ethconomics/status/1527017619542446091)
-### [ETHconomics @ Devconnect YouTube Channel](https://www.youtube.com/channel/UCkGClyuefTTYZj9nU0-D71Q)
-### [ETHconomics @ Devconnect Program](https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90)
+#### Follow other Presentations at ETHconomics @ Devconnect
+- [ETHconomics @ Devconnect Twitter](https://twitter.com/ethconomics/status/1527017619542446091)
+- [ETHconomics @ Devconnect YouTube Channel](https://www.youtube.com/channel/UCkGClyuefTTYZj9nU0-D71Q)
+- [ETHconomics @ Devconnect Program](https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90)
 
 ### Table of Contents
 |   **Folder**   | **URL** | 
