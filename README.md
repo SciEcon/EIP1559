@@ -55,6 +55,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 - **Documentary on ETHconomics Devconnect [YouTube Channel](https://youtu.be/QetFrMDBFWY)**:
 
 [![EIP1559](https://github.com/SciEcon/EIP1559/blob/main/Presentation/ETHconomics%20%40%20Devconnect%202022.png)](https://www.youtube.com/watch?v=QetFrMDBFWY)
+- **Spotlight article for this event**: https://ce.pubpub.org/pub/ethconomics2022
 
 - **Slides in PDF**: https://docsend.com/view/s8798vk8w3cdmjqz
 - **Slides in Flipbook**: https://heyzine.com/flip-book/6d0ae9deab.html
