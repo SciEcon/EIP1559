@@ -3,7 +3,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6478038.svg)](https://doi.org/10.5281/zenodo.6478038)
 ### Paper Title:
 
-["Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security"](https://arxiv.org/abs/2201.05574), Accepted at [ACM CCS'22](https://www.sigsac.org/ccs/CCS2022/call-for-papers.html)
+"Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security", Accepted at [ACM CCS'22](https://www.sigsac.org/ccs/CCS2022/call-for-papers.html)
+
+-[arXiv](https://arxiv.org/abs/2201.05574)
+-[ACM Library](https://dl.acm.org/doi/10.1145/3548606.3559341)
 
 ### Author List:
 
