@@ -71,7 +71,6 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 
 - **Documentary on ETHconomics Devconnect [YouTube Channel](https://www.youtube.com/watch?v=a9SB3uXR1qw)**:
 
-[![EIP1559](https://img.youtube.com/vi/a9SB3uXR1qw/0.jpg)](https://www.youtube.com/watch?v=a9SB3uXR1qw)
 
 #### Follow other Presentations at ETHconomics @ Devconnect
 - [ETHconomics @ Devconnect Twitter](https://twitter.com/ethconomics/status/1527017619542446091)
