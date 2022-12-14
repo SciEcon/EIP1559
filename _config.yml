@@ -1,0 +1,5 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Empirical Analysis of EIP-1559
+description: Transaction Fees, Waiting Times, and Consensus Security
