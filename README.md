@@ -82,7 +82,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 ```
 The repository
 ├── data
-│   └── https://github.com/SciEcon/EIP1559/tree/main/Data
+│   └── [https://github.com/SciEcon/EIP1559/tree/main/Data](https://github.com/SciEcon/EIP1559/tree/main/Data)
 ├── code
 │   └── https://github.com/SciEcon/EIP1559/tree/main/code
 ├── figs
