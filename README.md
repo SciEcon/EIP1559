@@ -80,7 +80,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 ### Table of Contents
 
 ```
-the repository
+The repository
 ├── data
 │   └── https://github.com/SciEcon/EIP1559/tree/main/Data
 ├── code
