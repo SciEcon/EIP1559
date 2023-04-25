@@ -19,7 +19,9 @@ Yulin Liu, Yuxuan Lu, Kartik Nayak, Fan Zhang\*, Luyao Zhang\*, and Yinhong Zhao
 > [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security.ipynb](https://colab.research.google.com/github/SciEcon/EIP1559/blob/main/code/Empirical_Analysis_of_EIP_1559__Transaction_Fees,_Waiting_Time,_and_Blockchain_Security.ipynb)
 
 #### Code for generating the additional results considering extra blocks in the afterwords
-> [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security (afterwords waiting time only: light mode).ipynb](https://colab.research.google.com/drive/1NbqpqTg6b_Bd74xILbz3vZOIGDelIm39?usp=sharing)
+> [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security (afterwords waiting time only: light mode).ipynb](https://colab.research.google.com/github/SciEcon/EIP1559/blob/main/code/Empirical_Analysis_of_EIP_1559_Transaction_Fees,_User_Experience,_and_Consensus_Security_%28afterwords_light_mode%29.ipynb)
+
+> [Empirical Analysis of EIP-1559: Transaction Fees, User Experience, and Consensus Security (afterwords waiting time only: dark mode).ipynb](https://colab.research.google.com/github/SciEcon/EIP1559/blob/main/code/Empirical_Analysis_of_EIP_1559_Transaction_Fees,_User_Experience,_and_Consensus_Security_%28afterwords_dark_mode%29.ipynb)
 
 ### Cite Dataset Published on [Harvard Dataverse](https://doi.org/10.7910/DVN/K7UYPI) (BibTex):
 #### Style in @misc
